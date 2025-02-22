@@ -7,6 +7,8 @@ matlab代码托管仓库
 
 ## 文件说明
 
+### BAIDU
+
 > /baidu/trackline_LT_break.m
 
 对图片进行，上交AuTop迷宫法逆透视巡线矩阵验证（图片路径/image/xx.jpg）
@@ -31,9 +33,7 @@ matlab代码托管仓库
 
 注意相关图像行列参数的设置
 
-
-
----
+### WHEEL_LEG
 
 > /wheel_leg/wheel_leg_4.m
 
@@ -44,3 +44,9 @@ matlab代码托管仓库
 > /wheel_leg/get_k_length_4.m
 
 四连杆轮腿腿长lqr K矩阵求取
+
+### APP
+
+> /app/pid_auto_test.mlapp
+
+一个辅助理解pid参数影响的可视化程序*(注意：此代码可能过时)*
